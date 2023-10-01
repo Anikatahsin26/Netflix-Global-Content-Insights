@@ -21,3 +21,15 @@ Welcome to Netflix Global Content Insights! This project aims to offer a deep di
 - **Cross-Functional Collaboration:**
   - Collaborated cross-functionally to refine the dashboard's design and functionality.
   - Ensure ongoing relevance and utility by incorporating feedback from diverse stakeholders.
+
+## Open the Tableau Dashboard:
+
+# Open the Tableau workbook [(Netflix_Content_Insights.twb).](https://public.tableau.com/app/profile/anika.tahsin/viz/NETFLIX_16956616686800/Netflix)
+
+# Explore and Analyze:
+Interact with the dashboard to explore different aspects of Netflix's global content insights.
+Leverage filters and visualizations to gain valuable insights.
+
+#Contribute:
+Feel free to contribute by opening issues, providing feedback, or submitting pull requests.
+Collaborate with the community to enhance the dashboard's features and usability.
